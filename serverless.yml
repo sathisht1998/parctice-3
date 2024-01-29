@@ -13,3 +13,6 @@ provider:
 functions:
   function1:
     handler: index.sathish
+
+    function2:
+    handler: index.sathish
