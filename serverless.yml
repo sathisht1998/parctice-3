@@ -5,6 +5,11 @@ provider:
   name: aws
   runtime: nodejs18.x
 
+  vpc:
+    subnets groupId:
+    - ndlskemil
+    - kjnczkjn
+
 functions:
   function1:
     handler: index.sathish
