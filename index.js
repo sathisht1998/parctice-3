@@ -10,6 +10,10 @@ module.exports.sathish = async (event) => {
         message: 'chandu',
         input: event,
       },
+            {
+        message: 'sai',
+        input: event,
+      },
       null,
       2
     ),
